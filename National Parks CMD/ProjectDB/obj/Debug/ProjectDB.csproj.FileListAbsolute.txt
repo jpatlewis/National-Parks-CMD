@@ -1,0 +1,7 @@
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\bin\Debug\ProjectDB.exe.config
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\bin\Debug\ProjectDB.exe
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\bin\Debug\ProjectDB.pdb
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\obj\Debug\ProjectDB.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\obj\Debug\ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\obj\Debug\ProjectDB.exe
+C:\Users\Jonathan Lewis\workspace\groups\Eric, week 6\m2-w6d1-dao-exercises-pair\ProjectDB\obj\Debug\ProjectDB.pdb
